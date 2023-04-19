@@ -1,0 +1,141 @@
+
+/*----Seccion MAIN---*/
+main{
+	padding-top: -2rem;
+	justify-content: center;
+	text-align: center;
+	background-color: white;
+}
+
+main h2{
+	font-size: 3rem;
+	color: #FF6B6B;
+}
+main h3{
+	color: black;
+	font-size: 2rem;
+}
+main p{
+	padding: 0 10rem 0 10rem;
+	font-size: 1.5rem;
+}
+.tabla{
+	width: 90%;
+	max-width: 800px;
+	display: inline-block;
+	justify-content: space-between;
+	display: flex;
+	text-align: center;
+	color: white;
+	margin: auto;
+}
+.Testimonios{
+	margin-top: 5rem;
+	margin-bottom: 10rem;
+}
+.tabla .izq{
+	background-color: #227c9d;
+	padding-bottom: 5rem;
+	border-radius: 2rem;
+	font-size: 2rem;
+	padding-top: 1rem;
+}
+.tabla div{
+	margin-right: 1rem;
+}
+.izq img{
+	width: 15rem;
+	
+		border-radius: 2rem;
+		height: 20rem;
+}
+.medio img{
+	max-width: 15rem;
+	
+		border-radius: 2rem;
+		height: 20rem;
+}
+.der img{
+	max-width: 15rem;
+	
+		border-radius: 2rem;
+		height: 20rem;
+}
+.tabla .medio{
+	background-color: #227c9d;
+		border-radius: 2rem;
+		font-size: 2rem;
+		padding-top: 1rem;
+}
+.tabla .der{
+	background-color: #227c9d;
+		border-radius: 2rem;
+		font-size: 2rem;
+		padding-top: 1rem;
+}
+.back h2{
+	padding-left: 25rem;
+}
+.navbarP{
+	border: white 2px solid;
+	padding: 1.5rem 10rem;
+}
+.navbarP a{
+	left: 2rem;
+	color: #F5F5F5;
+	left: 3rem;
+}
+.navbarP a:hover{
+	color: #88D18A;
+	background: none;
+}
+.Post{
+	padding-top: 5rem;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	color: #F5F5F5;
+}
+.Index{
+	padding: 0 10rem 0 15rem;
+}
+.Contenido{
+	max-width: 100rem;
+}
+.Contenido .Fecha{
+	border-top: white 2px solid;
+	padding: 1rem 0 2rem 0;
+}
+.Contenido p{
+	color: #B8BBBF;
+	text-align: justify;
+	line-height: 2.5rem;
+}
+.Secundario{
+	padding: 0 15rem 0 10rem;
+	text-align: justify;
+}
+.Secundario p{
+	color: #B8BBBF;
+}
+.izq p{
+	font-size: 1rem;
+	padding: 3rem 2rem 1rem 2rem;
+	margin: 0;
+	max-width: 20rem;
+	text-align: justify;
+}
+.medio p{
+	font-size: 1rem;
+	padding: 3rem 2rem 1rem 2rem;
+	margin: 0;
+	max-width: 20rem;
+	text-align: justify;
+}
+.der p{
+	font-size: 1rem;
+	padding: 3rem 2rem 1rem 2rem;
+	margin: 0;
+	max-width: 20rem;
+	text-align: justify;
+}
